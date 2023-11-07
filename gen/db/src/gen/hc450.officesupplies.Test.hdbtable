@@ -1,0 +1,5 @@
+COLUMN TABLE hc450_officesupplies_Test (
+  ID NVARCHAR(36) NOT NULL,
+  name NVARCHAR(5000),
+  PRIMARY KEY(ID)
+)
